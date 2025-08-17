@@ -3,11 +3,11 @@ This project is a mock analysis for marine insurance underwriting.
 The initiative is to demonstrate skills for product management and analysis in the insurance field. 
 
 ## Files
-- **Marine Insurance Mock Data** - Mock data for the project. Generated with help from ChatGPT.
+- **Marine Insurance Mock Data.xlsx** - Mock data for the project. Generated with help from ChatGPT.
 
-- **Marine Insurance Underwriting Simulation** - A dynamic Excel model that simulates how changes in underwriting rules affect profit and loss ratio given various What-If scenarios.
+- **Marine Insurance Underwriting Simulation.xlsx** - A dynamic Excel model that simulates how changes in underwriting rules affect profit and loss ratio given various What-If scenarios.
 
-- **Marine Underwriting Demo Analysis** - A PowerPoint summary on the key findings, visuals and recommendations based off the data analyzed. 
+- **Marine Underwriting Demo Analysis.pptx** - A PowerPoint summary on the key findings, visuals and recommendations based off the data analyzed. 
 
 ## Key Features
 - 500 simulated policies with claim as yes/no, claim amount, annual premium, hull material, year built, purchase price of the yacht, similar watercraft operator experience as yes/no, and navigation area
