@@ -13,7 +13,8 @@ The initiative is to demonstrate skills for product management and analysis in t
 
 ## Interactive Dashboard
 - This is a visual preview of the Marine Insurance Underwriting Simulation. For the interactive version you will have to click "View Raw" to download the .xlsx file.
-- ![Dashboard Preview](Dashboard%20Preview.png) 
+
+[![Dashboard Preview](Dashboard%20Preview.PNG)](Dashboard%20Preview.PNG?raw=1)
 
 ## Key Features
 - 500 simulated policies with claim as yes/no, claim amount, annual premium, hull material, year built, purchase price of the yacht, similar watercraft operator experience as yes/no, and navigation area
