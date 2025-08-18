@@ -9,7 +9,7 @@ The initiative is to demonstrate skills for product management and analysis in t
 
 - **Marine Underwriting Demo Analysis.pptx** - A PowerPoint summary on the key findings, visuals and recommendations based off the data analyzed.
 
--**Marine Underwriting Demo Analysis.pdf** - A PDF version of the PowerPoint that does not require a download to render and view. 
+- **Marine Underwriting Demo Analysis.pdf** - A PDF version of the PowerPoint that does not require a download to render and view. 
 
 ## Interactive Dashboard
 - This is a visual preview of the Marine Insurance Underwriting Simulation. For the interactive version you will have to click "View Raw" to download the .xlsx file.
