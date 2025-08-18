@@ -8,7 +8,7 @@ The initiative is to demonstrate skills for product management and analysis in t
 - **Marine Insurance Underwriting Simulation.xlsx** - A dynamic Excel model that simulates how changes in underwriting rules affect profit and loss ratio given various What-If scenarios.
 
 - **Marine Underwriting Demo Analysis.pptx** - A PowerPoint summary on the key findings, visuals and recommendations based off the data analyzed.
-
+ 
 - **Marine Underwriting Demo Analysis.pdf** - A PDF version of the PowerPoint that does not require a download to render and view. 
 
 ## Interactive Dashboard
